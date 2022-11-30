@@ -1,0 +1,6 @@
+version: 1
+rules:
+  - expected: Mastodon
+    specs:
+      - from: mastodon
+        to: Mastodon
