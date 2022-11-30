@@ -1,15 +1,9 @@
-GIT
-  remote: https://github.com/masarakki/md2review.git
-  revision: 840129e2e001506a571942fb5dc1ef6ce2c083e1
-  branch: image-scale-option
-  specs:
-    md2review (1.12.1)
-      redcarpet (> 2.0.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
     image_size (3.0.2)
+    md2review (1.12.1)
+      redcarpet (> 2.0.0)
     pastel (0.8.0)
       tty-color (~> 0.5)
     rake (13.0.6)
@@ -31,7 +25,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  md2review!
+  md2review
   rake
   review (~> 5.5.0)
 
