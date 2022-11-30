@@ -1,9 +1,14 @@
+GIT
+  remote: https://github.com/takahashim/md2review.git
+  revision: 04126a9de775ee522d3b40f26708fa3ec70219a0
+  specs:
+    md2review (1.12.1)
+      redcarpet (> 2.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    image_size (3.0.2)
-    md2review (1.12.1)
-      redcarpet (> 2.0.0)
+    image_size (3.2.0)
     pastel (0.8.0)
       tty-color (~> 0.5)
     rake (13.0.6)
@@ -15,7 +20,7 @@ GEM
       rubyzip
       tty-logger
     rexml (3.2.5)
-    rouge (3.29.0)
+    rouge (4.0.0)
     rubyzip (2.3.2)
     tty-color (0.6.0)
     tty-logger (0.6.0)
@@ -25,9 +30,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  md2review
+  md2review!
   rake
   review (~> 5.5.0)
 
 BUNDLED WITH
-   2.2.32
+   2.3.26
