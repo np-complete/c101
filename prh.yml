@@ -4,3 +4,7 @@ rules:
     specs:
       - from: mastodon
         to: Mastodon
+  - expected: Twitter
+    specs:
+      - from: twitter
+        to: Twitter
