@@ -2,6 +2,7 @@ PREDEF:
   - README.re
 CHAPS:
   - community.re
+  - money.re
 APPENDIX:
 
 POSTDEF:
