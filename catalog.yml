@@ -3,6 +3,7 @@ PREDEF:
 CHAPS:
   - community.re
   - money.re
+  - diffusibility.re
 APPENDIX:
 
 POSTDEF:
